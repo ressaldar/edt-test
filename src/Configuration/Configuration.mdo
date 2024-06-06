@@ -38,5 +38,7 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <catalogs>Catalog.Товары</catalogs>
+  <dataProcessors>DataProcessor.Обработка</dataProcessors>
 </mdclass:Configuration>
