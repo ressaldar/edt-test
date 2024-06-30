@@ -43,6 +43,24 @@
     <fullTextSearch>Use</fullTextSearch>
     <dataHistory>Use</dataHistory>
   </attributes>
+  <attributes uuid="18851d5e-ecdb-4e0f-8a07-83b3ef9a9c3b">
+    <name>Склад</name>
+    <synonym>
+      <key>ru</key>
+      <value>Склад</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers>
+        <length>10</length>
+      </stringQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+    <fillValue xsi:type="core:UndefinedValue"/>
+    <fullTextSearch>Use</fullTextSearch>
+    <dataHistory>Use</dataHistory>
+  </attributes>
   <tabularSections uuid="3d4e26ec-5b41-40ed-8f66-6c8a251255cc">
     <producedTypes>
       <objectType typeId="4205b42a-af9a-44cb-bca4-f5655785f704" valueTypeId="43bbc654-9e5a-4118-8e83-95d2b7a6b11f"/>
