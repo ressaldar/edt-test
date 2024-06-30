@@ -10,4 +10,5 @@
   <content>Document.Приходная</content>
   <content>Catalog.Товары</content>
   <content>Catalog.Склады</content>
+  <content>Catalog.Валюты</content>
 </mdclass:Subsystem>

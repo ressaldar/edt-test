@@ -40,6 +40,7 @@
   </languages>
   <subsystems>Subsystem.ОУ</subsystems>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
+  <catalogs>Catalog.Валюты</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Товары</catalogs>
