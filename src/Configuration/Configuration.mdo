@@ -41,6 +41,7 @@
   <subsystems>Subsystem.ОУ</subsystems>
   <commonModules>CommonModule.ОбщийМодуль</commonModules>
   <catalogs>Catalog.Контрагенты</catalogs>
+  <catalogs>Catalog.Склады</catalogs>
   <catalogs>Catalog.Товары</catalogs>
   <documents>Document.Приходная</documents>
   <dataProcessors>DataProcessor.Обработка</dataProcessors>
